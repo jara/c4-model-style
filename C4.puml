@@ -24,8 +24,6 @@ skinparam LegendFontColor $LEGEND_FONT_COLOR
 
 skinparam roundcorner 20
 
-skinparam defaultFontName "Calibri,Arial,sans-serif"
-
 skinparam rectangle {
     StereotypeFontSize 12
     shadowing true

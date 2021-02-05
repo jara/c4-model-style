@@ -11,7 +11,7 @@
 ' ##################################
 
 !global $CONTAINER_BG_COLOR = "#FF8C00"
-!global $CONTAINER_BORDER_COLOR = "#FF8C00",
+!global $CONTAINER_BORDER_COLOR = "#FF8C00"
 !global $EXTERNAL_CONTAINER_BG_COLOR = "#B3B3B3"
 !global $EXTERNAL_CONTAINER_BORDER_COLOR = "#A6A6A6"
 

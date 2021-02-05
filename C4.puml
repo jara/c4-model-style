@@ -24,7 +24,7 @@ skinparam LegendFontColor $LEGEND_FONT_COLOR
 
 skinparam roundcorner 20
 
-skinparam defaultFontName "Poppins"
+skinparam defaultFontName "Helvetica Neue, Helvetica,Arial,sans-serif"
 
 skinparam rectangle {
     StereotypeFontSize 12

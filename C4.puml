@@ -22,7 +22,7 @@ skinparam LegendBorderColor transparent
 skinparam LegendBackgroundColor transparent
 skinparam LegendFontColor $LEGEND_FONT_COLOR
 
-skinparam roundcorner 20
+skinparam roundcorner 30
 
 skinparam rectangle {
     StereotypeFontSize 12
